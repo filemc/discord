@@ -1,4 +1,4 @@
-*Houses System*
+**Houses System**
 - personal channel for everyone
 - 100% automatic
 - commands list (-house help)
@@ -7,17 +7,17 @@
 - add/remove mods (-house addMod/removeMod)
 - change icon for VIP (-house icon)
 
-*Infinite Channels*
+**Infinite Channels**
 - automatic channels creation
 - nevel runs out of channels
 - works with Global and Support
 
-*Temporary Channels*
+**Temporary Channels**
 - rename channel (-temp rename)
 - set channel user limit (-temp setmax)
 - automatic channel create
 - automatic channel delete
 
-*Suites*
+**Suites**
 - removed
 - replaced with Premium houses (not yet avviable (only icon change for now))
